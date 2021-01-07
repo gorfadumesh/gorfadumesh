@@ -40,10 +40,10 @@ const Contact = () => {
                   zonayedpca <span>(Always Available)</span>
                 </p>
               </li> */}
-              <li>
+              {/* <li>
                 <h5>Social</h5>
                 <p>Facebook/Twitter - @gorfadumesh</p>
-              </li>
+              </li> */}
               <li>
                 <h5>Address</h5>
                 <p>Junagadh, Gujarat, India</p>
