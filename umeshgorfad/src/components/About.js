@@ -25,6 +25,7 @@ const About = () => {
             </p>
             <div className="about-action">
               <Button
+                link="https://github.com/gorfadumesh/gorfadumesh/raw/master/umeshgorfad/src/data/file/Umesh_Gorfad_Resume.pdf"
                 // link="https://github.com/zonayedpca/umeshgorfad/raw/master/src/data/file/MyResume.pdf"
                 target="_blank"
                 bgColor="#00cf5d"
