@@ -5,7 +5,7 @@ import { Container, Title } from "./common"
 import music from "../assets/image/music.png"
 import camera from "../assets/image/camera.png"
 import travelling from "../assets/image/travelling.svg"
-import mountainhiking from "../assets/image/mountainhiking.svg"
+import reading from "../assets/image/reading.png"
 import swimming from "../assets/image/swimming.svg"
 
 import "./lovetodo.css"
@@ -21,16 +21,16 @@ const LoveToDo = () => {
             <h4>Photography</h4>
           </div>
           <div className="stickpad">
+            <img alt="" src={reading} />
+            <h4>Reading Books</h4>
+          </div>
+          <div className="stickpad">
+            <img alt="" src={travelling} />
+            <h4>travelling</h4>
+          </div>
+          <div className="stickpad">
             <img alt="" src={music} />
-            <h4>Playing musical instruments</h4>
-          </div>
-          <div className="stickpad">
-            <img alt="" src={mountainhiking} />
-            <h4>Mountain Hiking</h4>
-          </div>
-          <div className="stickpad">
-            <img alt="" src={swimming} />
-            <h4>Swimming</h4>
+            <h4>Playing instruments</h4>
           </div>
         </div>
       </Container>

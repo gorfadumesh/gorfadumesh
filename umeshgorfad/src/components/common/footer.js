@@ -26,7 +26,7 @@ export const Footer = () => {
             </ul>
           </div>
           <div className="copyright">
-            <ul className="github">
+            {/* <ul className="github">
               <li>
                 <a target="_blank" rel="noopener noreferrer" href="">
                   <p>
@@ -41,7 +41,7 @@ export const Footer = () => {
                   </p>
                 </a>
               </li>
-            </ul>
+            </ul> */}
             <p>
               By Me{" "}
               <span onClick={handleScroll}>
