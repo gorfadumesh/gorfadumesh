@@ -12,7 +12,7 @@ export const portfolios = {
     },
     {
       type: "regular",
-      name: "Expense Tracker",
+      name: "Chat App",
       image: require("./image/ExpenseTracker.jpg"),
       description:
         "simple community-building room chat app built using react, firebase, and react-firebase-hooks",

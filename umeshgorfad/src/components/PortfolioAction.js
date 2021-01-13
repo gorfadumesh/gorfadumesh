@@ -11,13 +11,13 @@ const PortfolioAction = () => {
     clearTimeout(moreTimeOut)
     showMoreTimeOut = setTimeout(() => {
       setTitle("Show More")
-    }, 1000)
+    }, 100)
   }
   const handleOnMouseOut = () => {
     clearTimeout(showMoreTimeOut)
     moreTimeOut = setTimeout(() => {
       setTitle("More")
-    }, 2000)
+    }, 100)
   }
   const handleClick = e => {
     e.preventDefault()
@@ -29,7 +29,7 @@ const PortfolioAction = () => {
     <div className="portfolio-action">
       <Button
         target="__blank"
-        link="https://github.com/zonayedpca"
+        link="https://github.com/gorfadumesh"
         onMouseOver={handleMouseOver}
         onMouseOut={handleOnMouseOut}
         onClick={handleClick}

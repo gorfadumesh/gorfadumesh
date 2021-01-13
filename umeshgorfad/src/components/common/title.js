@@ -1,9 +1,7 @@
 import React from "react"
 import {
   FaGithub,
-  FaCodepen,
   FaLinkedinIn,
-  FaMediumM,
   FaTwitter,
   FaFacebook,
   FaInstagram,
