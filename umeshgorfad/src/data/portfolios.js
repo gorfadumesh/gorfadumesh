@@ -25,7 +25,7 @@ export const portfolios = {
       name: "Employee Management ",
       image: require("./image/Employee-Management.jpg"),
       description:
-        "simple community-building room chat app built using react, firebase, and react-firebase-hooks",
+        "A simple and beautiful Employee Management application built with React.",
       demo: "https://employee-manage.netlify.app/",
       source: "https://github.com/gorfadumesh/Employee-Management",
       tools: ["reactjs"],
