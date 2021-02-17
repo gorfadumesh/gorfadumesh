@@ -20,6 +20,16 @@ export const portfolios = {
       source: "https://github.com/gorfadumesh/pkmconnect",
       tools: ["reactjs", "firebase"],
     },
+    {
+      type: "regular",
+      name: "Employee Management ",
+      image: require("./image/Employee-Management.jpg"),
+      description:
+        "simple community-building room chat app built using react, firebase, and react-firebase-hooks",
+      demo: "https://employee-manage.netlify.app/",
+      source: "https://github.com/gorfadumesh/Employee-Management",
+      tools: ["reactjs"],
+    },
     // {
     //   type: "featured",
     //   name: "DevSonket",

@@ -21,7 +21,7 @@ const Intro = () => {
             </ul>
             <div className="action">
               <Button
-                link="https://github.com/gorfadumesh/gorfadumesh/raw/master/umeshgorfad/src/data/file/Umesh_Gorfad_Resume.pdf"
+                link="https://github.com/gorfadumesh/gorfadumesh/raw/master/umeshgorfad/src/data/file/Umseh_Gorfad_Resume.pdf"
                 target="__blank"
                 bgColor="#00cf5d"
                 title="Get Resume"

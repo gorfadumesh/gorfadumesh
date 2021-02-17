@@ -24,12 +24,6 @@ const About = () => {
               suits my interests.
             </p>
             <div className="about-action">
-              <Button
-                link="https://github.com/gorfadumesh/gorfadumesh/raw/master/umeshgorfad/src/data/file/Umesh_Gorfad_Resume.pdf"
-                target="_blank"
-                bgColor="#00cf5d"
-                title="Get Resume"
-              />
               <Button clickEvent link="#skill" ml="15px" title="My Skills" />
             </div>
           </div>
