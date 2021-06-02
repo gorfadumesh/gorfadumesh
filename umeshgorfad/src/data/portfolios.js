@@ -1,34 +1,34 @@
 export const portfolios = {
-  Web: [
+  Project: [
     {
       type: "regular",
-      name: "Expense Tracker",
+      name: "Digital Watch",
       image: require("./image/ExpenseTracker.jpg"),
       description:
-        "The simple income and expense calulation app with react, local storage and react hooks",
-      demo: "https://expensetrackerumesh.netlify.app/",
-      source: "https://github.com/gorfadumesh/Expense_Tracker",
-      tools: ["reactjs", "netlify"],
+        "The simple watch shows real time using Arduino and 7 segment Display",
+      demo: "https://www.tinkercad.com/things/d0stiC6lftp/",
+      source: "https://github.com/kartiksagar2605/Digital-Watch-Code-for-arduino.git",
+      tools: ["Arduino ADE", "TinkerCAD"],
     },
     {
       type: "regular",
-      name: "Chat App",
+      name: "Calculator",
       image: require("./image/ExpenseTracker.jpg"),
       description:
-        "simple community-building room chat app built using react, firebase, and react-firebase-hooks",
-      demo: "https://umesh-chat-app.web.app/",
-      source: "https://github.com/gorfadumesh/pkmconnect",
-      tools: ["reactjs", "firebase"],
+        "simple calculator using virtual componets and c++, and microcontroller",
+      demo: "https://www.tinkercad.com/things/g9eDfMtshaL",
+      source: "https://github.com/kartiksagar2605/Arduino-calculator.git",
+      tools: ["Arduino ADE", "TinkerCAD"],
     },
     {
       type: "regular",
-      name: "Employee Management ",
+      name: "Motion Counter ",
       image: require("./image/Employee-Management.jpg"),
       description:
-        "A simple and beautiful Employee Management application built with React.",
-      demo: "https://employee-manage.netlify.app/",
-      source: "https://github.com/gorfadumesh/Employee-Management",
-      tools: ["reactjs"],
+        "A simple counter that count motios using arduino and PIR Sensors built with Arduino ADE.",
+      demo: "https://www.tinkercad.com/things/ke9lxDboGMi/",
+      source: "https://github.com/kartiksagar2605/Motion-counter-for-arduino.git",
+      tools: ["Arduino ADE"],
     },
     // {
     //   type: "featured",
