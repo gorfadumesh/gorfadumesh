@@ -34,6 +34,12 @@ const Contact = () => {
                   gorfadumesh1213@gmail.com <span>(Recommended)</span>
                 </p>
               </li>
+    <li>
+                <h5>Phone</h5>
+                <p>
+                  +91 9924992637</span>
+                </p>
+              </li>
               {/* <li>
                 <h5>Skype</h5>
                 <p>
